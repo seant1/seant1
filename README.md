@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Sean 👋
+UTS BIT Co-op Scholar graduating in November 2021
 
 <!--
 **seant1/seant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
